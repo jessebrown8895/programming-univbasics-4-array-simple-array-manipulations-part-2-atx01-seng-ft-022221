@@ -15,7 +15,7 @@ def using_concat (my_favorite_things, more_favs)
  end
  
  def using_delete(instructors, "steven")
-   
+   no_offense_steven = instructors.delete("Steven")
    
   
   
