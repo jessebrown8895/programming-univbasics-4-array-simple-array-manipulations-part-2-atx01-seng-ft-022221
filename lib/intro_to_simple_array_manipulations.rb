@@ -20,8 +20,8 @@ def using_concat (my_favorite_things, more_favs)
  
  def using_delete_at(array, integer)
    famous_robots = ["Johnny 5", "R2D2", "Robocop"]
-   
-   deleted_robot = famous_robots.using_delete_at(3)
+   integer = 2 
+   deleted_robot = famous_robots.using_delete_at(2)
  end
  
    
