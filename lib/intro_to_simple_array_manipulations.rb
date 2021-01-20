@@ -14,7 +14,8 @@ def using_concat (my_favorite_things, more_favs)
    flat_array = instruments.flatten
  end
  
- def using_delete(instructors,)
+ def using_delete(instructors, "steven")
+   
   
   
 
