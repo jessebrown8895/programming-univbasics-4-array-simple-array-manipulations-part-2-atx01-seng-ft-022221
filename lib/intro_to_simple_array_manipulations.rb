@@ -9,6 +9,8 @@ def using_concat (my_favorite_things, more_favs)
  def using_uniq(haircuts)
    haircuts.uniq 
  end
+ 
+ def using_flatten()
   
   
 
