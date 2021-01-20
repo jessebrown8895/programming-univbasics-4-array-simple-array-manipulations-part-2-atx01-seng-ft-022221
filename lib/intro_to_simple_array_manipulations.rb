@@ -10,7 +10,7 @@ def using_concat (my_favorite_things, more_favs)
    haircuts.uniq 
  end
  
- def using_flatten()
+ def using_flatten(instruments)
   
   
 
