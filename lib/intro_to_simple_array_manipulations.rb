@@ -6,7 +6,9 @@ def using_concat (my_favorite_things, more_favs)
    new_array = list_of_programming_languages.insert(4, another_language)
  end
  
- def using_uniq()
+ def using_uniq(haircuts)
+   haircuts.uniq 
+ end
   
   
 
