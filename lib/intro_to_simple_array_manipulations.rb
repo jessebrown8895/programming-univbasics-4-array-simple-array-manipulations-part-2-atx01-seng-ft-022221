@@ -5,6 +5,8 @@ def using_concat (my_favorite_things, more_favs)
  def using_insert(list_of_programming_languages, another_language)
    new_array = list_of_programming_languages.insert(4, another_language)
  end
+ 
+ def using_uniq 
   
   
 
